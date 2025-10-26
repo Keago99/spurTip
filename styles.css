@@ -10,7 +10,7 @@ body{
 #mainInput{
     display: flex;
     height: 300px;
-    width: 500px;
+    width: 50%;
     border: solid 2px;
     justify-content: center;
     align-items: center;
